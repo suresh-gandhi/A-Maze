@@ -15,7 +15,7 @@ The player moves via teleportation by clicking on the waypoints which are approp
 * Baked lights are used rather than realtime illumination as most of the objects in the game are static.
 * Also I used unlit(supports lightmap) shaders rather than the standard ones. It had some trade offs in look and feel but worked decently fine for mobile devices with good efficiency.
 
-[Here](summigandhi.com) is the walkthrough of the game.
+[Here](https://www.youtube.com/watch?v=QhvMRCyDzCg&feature=youtu.be) is the walkthrough of the game.
 
 # Versions
 * Unity 2017.2.0f3
