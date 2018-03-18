@@ -11,7 +11,7 @@ This is a VR maze game made in Unity in which the user gets rewarded with treasu
 The player moves via teleportation by clicking on the waypoints which are appropriately spawned in the whole environment. The game is targeted for mobile devices and for Google Cardboard HMD which is the reason why I did the following optimizations taking into account the efficiency.
 
 * The spawning of waypoints is made dynamic rather than placing them all initially(This drastically increased the speed of the game as only 5 waypoint scripts were running at a time rather than 90(which is the total number of waypoints)).
-* Rendering is enhanced through occlusion cutting.
+* Rendering is enhanced through occlusion culling.
 * Baked lights are used rather than realtime illumination as most of the objects in the game are static.
 * Also I used unlit(supports lightmap) shaders rather than the standard ones. It had some trade offs in look and feel but worked decently fine for mobile devices with good efficiency.
 
