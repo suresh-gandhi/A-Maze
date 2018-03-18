@@ -1,6 +1,6 @@
 # A-Maze
 
-Who doesn't like finding a route through a confusing network of intercommunicating paths and passages :blush:
+Who doesn't like finding a route through a confusing network of interconnecting paths and passages :blush:
 
 This is a VR maze game made in Unity in which the user gets rewarded with treasure on finding the correct way out. The gameplay is as follows ->
 
