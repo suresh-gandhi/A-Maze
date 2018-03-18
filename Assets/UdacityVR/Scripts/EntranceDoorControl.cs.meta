@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1a0ef02e85d9d7441830f375b85c8b3e
+timeCreated: 1520655162
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FountainLeft: {fileID: 1697729516149830, guid: 111f0f2b0e4c9d345b9363d4740a39f6,
+      type: 2}
+  - FountainRight: {fileID: 1890200894289550, guid: 86a294e3150a3e64ebfeb473153ad613,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
