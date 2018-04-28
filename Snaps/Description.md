@@ -1,3 +1,6 @@
+## Snapshots of the Game along with their description written above :camera: :full_moon_with_face:
+
+
 #### The player moves via teleportation by clicking on the waypoints which are appropriately spawned in the whole environment -> 
 ![maze4](https://user-images.githubusercontent.com/22399995/39396842-8d018512-4b13-11e8-8cb8-c253ea97492f.PNG)
 
